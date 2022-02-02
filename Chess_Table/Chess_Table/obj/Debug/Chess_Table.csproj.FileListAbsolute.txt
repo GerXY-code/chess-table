@@ -1,0 +1,10 @@
+C:\Users\Geri\source\repos\Chess_Table\Chess_Table\bin\Debug\Chess_Table.exe.config
+C:\Users\Geri\source\repos\Chess_Table\Chess_Table\bin\Debug\Chess_Table.exe
+C:\Users\Geri\source\repos\Chess_Table\Chess_Table\bin\Debug\Chess_Table.pdb
+C:\Users\Geri\source\repos\Chess_Table\Chess_Table\obj\Debug\Chess_Table.csproj.AssemblyReference.cache
+C:\Users\Geri\source\repos\Chess_Table\Chess_Table\obj\Debug\Chess_Table.Form1.resources
+C:\Users\Geri\source\repos\Chess_Table\Chess_Table\obj\Debug\Chess_Table.Properties.Resources.resources
+C:\Users\Geri\source\repos\Chess_Table\Chess_Table\obj\Debug\Chess_Table.csproj.GenerateResource.cache
+C:\Users\Geri\source\repos\Chess_Table\Chess_Table\obj\Debug\Chess_Table.csproj.CoreCompileInputs.cache
+C:\Users\Geri\source\repos\Chess_Table\Chess_Table\obj\Debug\Chess_Table.exe
+C:\Users\Geri\source\repos\Chess_Table\Chess_Table\obj\Debug\Chess_Table.pdb
